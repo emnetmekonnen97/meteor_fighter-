@@ -1,7 +1,7 @@
 # Meteor Fighter
 
 ## Overview
-The Meteor Hunter Game is a simple yet exciting game where the player takes control of an alien tasked with destroying falling meteors threatening the planet. The game features user-controlled movement, shooting lasers, and a point system.
+The Meteor Fighter Game is a simple yet exciting game where the player takes control of an alien tasked with destroying falling meteors threatening the planet. The game features user-controlled movement, shooting lasers, and a point system.
 
 ## How to Play
 
